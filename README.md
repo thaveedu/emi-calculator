@@ -1,4 +1,5 @@
 # emi-calculator
+A simple EMI calculator app written on Vue js . 
 
 ## Project setup
 ```
